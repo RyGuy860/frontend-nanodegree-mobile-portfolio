@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<IMG>
+  <E K="ImageDimensions" V="2048.000000;1536.000000"/>
+  <E K="Camera_software" V="1.00             "/>
+  <E K="Author" V="7.1.6.34 Pro Mac"/>
+  <E K="File_size" V="2370074"/>
+  <E K="Exp_focallength" V="4.24"/>
+  <E K="Exp_meteringmode" V="5"/>
+  <E K="Exp_exposureprog" V="2"/>
+  <E K="Camera_model" V="EX-ZR200   "/>
+  <E K="PixelWidth" V="0"/>
+  <E K="ImageClassification" V="19"/>
+  <E K="Iso" V="200"/>
+  <E K="Version" V="706"/>
+  <E K="Exp_exposuremode" V="0"/>
+  <E K="Camera_make" V="CASIO COMPUTER CO.,LTD."/>
+  <E K="PixelHeight" V="0"/>
+  <E K="Exp_exposurecompensation" V="0"/>
+  <E K="Exp_date" V="2013-12-04 18:40:20 +0000"/>
+  <E K="Height" V="1536"/>
+  <E K="CameraDisplayName" V="Jpeg File"/>
+  <E K="Exp_whitebalance" V="0"/>
+  <E K="Format" V="7.1.6.34 Pro Mac"/>
+  <E K="VisualCompatibility" V="5.0.0"/>
+  <E K="Exp_aperture" V="3"/>
+  <E K="ProductID" V="FileSystemJpeg"/>
+  <E K="PixelSize" V="0.000000;0.000000"/>
+  <E K="CompatibleVersion" V="16"/>
+  <E K="UUID" V="10D981C7-2981-4DF3-9E7D-18C27F83F42F"/>
+  <E K="Exp_format" V="JPEG"/>
+  <E K="Camera_lens" V=""/>
+  <E K="Exp_flashcompensation" V="--"/>
+  <E K="Exp_flashmode" V="16"/>
+  <E K="Exp_colorspace" V="sRGB IEC61966-2.1"/>
+  <E K="Exp_shutterspeed" V="0.016667"/>
+  <E K="Compatibility" V="5.2.0"/>
+  <E K="Width" V="2048"/>
+  <VAR Engine="700" >
+    <E K="UUID" V="04C19656-B64E-47FE-A28A-2491B49A194D"/>
+    <E K="LastMetadataModificationDate" V="2015-10-20 13:38:44 +0000"/>
+    <E K="canvasSize" V="2047.999146;1536.002441"/>
+    <DL>
+      <E K="GeometryKeystoneAmount" V="100"/>
+      <E K="LensOpticCenter" V="0.000000|0.000000"/>
+      <E K="Clarity" V="0.000000"/>
+      <E K="ColorCorrections" V="1,1,1,0.000000,0.000000,0.000000,127.000000,63.000000,119.000000,-28.822567,28.822567,-50.000000,50.000000,12.000000,0.000000,0;1,1,1,0.000000,0.000000,0.000000,67.000000,63.000000,127.000000,-21.978279,21.978279,-50.000000,50.000000,12.000000,0.000000,0;1,1,1,0.000000,0.000000,0.000000,63.000000,118.000000,127.000000,-22.322311,22.322311,-50.000000,50.000000,12.000000,0.000000,0;1,1,1,0.000000,0.000000,0.000000,69.000000,127.000000,63.000000,-38.925846,38.925846,-50.000000,50.000000,12.000000,0.000000,0;1,1,1,0.000000,0.000000,0.000000,127.000000,115.000000,63.000000,-13.542439,13.542439,-50.000000,50.000000,12.000000,0.000000,0;1,1,1,0.000000,0.000000,0.000000,127.000000,68.000000,63.000000,-18.408569,18.408569,-50.000000,50.000000,12.000000,0.000000,0;0,1,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0"/>
+      <E K="Brightness" V="0"/>
+      <E K="BwEnabled" V="0"/>
+      <E K="Vignetting" V="0.000000|0|0|1"/>
+      <E K="PurpleFringing" V="0"/>
+      <E K="BRAmount" V="0"/>
+      <E K="ClarityPunchAmount" V="0"/>
+      <E K="BwYellow" V="0"/>
+      <E K="Shadow" V="0.000000;0.000000;0.000000;0.000000"/>
+      <E K="CNRAmount" V="0"/>
+      <E K="LensTilt" V="0"/>
+      <E K="LensShift" V="0"/>
+      <E K="BwDarkHue" V="0"/>
+      <E K="SurfaceSmoothnessAmount" V="0"/>
+      <E K="LensOpticCenterEnabled" V="0"/>
+      <E K="NRAmount" V="0"/>
+      <E K="ClarityStructure" V="0"/>
+      <E K="Saturation" V="0"/>
+      <E K="BwBlue" V="0"/>
+      <E K="BwLightSaturation" V="0"/>
+      <E K="ShadowRecovery" V="0"/>
+      <E K="TargetHighlight" V="1.000000;1.000000;1.000000;1.000000"/>
+      <E K="Moire" V="0.000000;8"/>
+      <E K="FineGrainAmount" V="0"/>
+      <E K="BwMagenta" V="0"/>
+      <E K="CleanLongExposureAmount" V="0"/>
+      <E K="GeometryKeystoneTiltY" V="0"/>
+      <E K="BwLightHue" V="0"/>
+      <E K="LensFocalLength" V="4.24"/>
+      <E K="GCurveG" V=""/>
+      <E K="BwCyan" V="0"/>
+      <E K="Rotation" V="0"/>
+      <E K="Flip" V="0"/>
+      <E K="ClarityMethod" V="1"/>
+      <E K="BwGreen" V="0"/>
+      <E K="LensShiftDirection" V="0"/>
+      <E K="TargetShadow" V="0.000000;0.000000;0.000000;0.000000"/>
+      <E K="Midtone" V="0.000000;0.000000;0.000000;0.000000"/>
+      <E K="GeometryKeystoneFocalLength" V="1"/>
+      <E K="GeometryKeystoneTiltX" V="0"/>
+      <E K="GeometryKeystoneAspect" V="0"/>
+      <E K="USMRadius" V="0.800000011920929"/>
+      <E K="USMAmount" V="0"/>
+      <E K="Highlight" V="1.000000;1.000000;1.000000;1.000000"/>
+      <E K="ICCProfile" V="FileSystemJpeg-neutral.icm"/>
+      <E K="ColorCastCorrection" V="0"/>
+      <E K="LensAperture" V="3"/>
+      <E K="WhiteBalance" V="1.000000;1.000000;1.000000"/>
+      <E K="GCurve" V=""/>
+      <E K="LensLccLightFalloffAmount" V="0"/>
+      <E K="BwDarkSaturation" V="0"/>
+      <E K="CropOutsideImage" V="0"/>
+      <E K="TargetEnable" V="1"/>
+      <E K="GCurveB" V=""/>
+      <E K="BwRed" V="0"/>
+      <E K="USMThreshold" V="1"/>
+      <E K="LensShiftXY" V="0.000000;0.000000"/>
+      <E K="HighlightRecovery" V="0"/>
+      <E K="ColorBalance" V="1.000000;1.000000;1.000000"/>
+      <E K="GCurveR" V=""/>
+      <E K="LensLCCDustRemovalEnabled" V="0"/>
+      <E K="FilmCurve" V="FileSystemJpeg-Linear Response.fcrv"/>
+      <E K="LensTiltDirection" V="0"/>
+      <E K="Crop" V="0.000000;0.000000;0.000000;0.000000"/>
+      <E K="LensLccLightFalloff" V="0"/>
+      <E K="Contrast" V="0"/>
+      <E K="Exposure" V="0"/>
+      <E K="GeometryCanvasClipping" V="2"/>
+      <E K="NoiseDetailsAmount" V="50"/>
+      <E K="LensChromaFringing" V="|||||"/>
+    </DL>
+    <AL>
+      <E K="Color_tag_index" V="0"/>
+      <E K="Basic_rating" V="0"/>
+    </AL>
+    <PHS>
+        <PH>
+            <E K="Date" V="2015-10-22 04:10:27 +0000"/>
+            <E K="Url" V="file://localhost/Users/ryannichols/Desktop/Udacity%20Nanodegree/Portfolio/frontend-nanodegree-mobile-portfolio/views/images/pizzeria%201.jpg"/>
+        </PH>
+    </PHS>
+  </VAR>
+</IMG>
