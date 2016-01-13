@@ -64,15 +64,15 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 ##Optimizations
 
 List of optimiztions in index.html
-	* Removed render-blocking CSS by using media queries
-	* Removed render-blocking CSS by inline CSS
-	* Removed render-blocking JavaScript by adding async attribute
-	* Optimized images with gulp imagemin to compress all jpg in img folder
+* Removed render-blocking CSS by using media queries
+* Removed render-blocking CSS by inline CSS
+* Removed render-blocking JavaScript by adding async attribute
+* Optimized images with gulp imagemin to compress all jpg in img folder
 
 List of optimiztions in pizza.html(views/js/main.js)
-	* Created moving pizzas based off screen size rather than creating 200 moving pizzas
-	* Decreased scripting time by using getElementsByClassName() to access DOM elements rather than using querySelectorAll()
-	* Decreased scripting time by using getElementsByID() rather than querySelector()
-	* Moved var pizzasDiv = document.getElementById("randomPizzas"); out of loop so it will only make one DOM call
-	* Created a for-loop to generate repeating five numbers and placed them into an array that would hold these five repeating values
-	* Fixed FLS problems in updatePositions and changePizzaSizes(size)
+* Created moving pizzas based off screen size rather than creating 200 moving pizzas
+* Decreased scripting time by using getElementsByClassName() to access DOM elements rather than using querySelectorAll()
+* Decreased scripting time by using getElementsByID() rather than querySelector()
+* Moved var pizzasDiv = document.getElementById("randomPizzas"); out of loop so it will only make one DOM call
+* Created a for-loop to generate repeating five numbers and placed them into an array that would hold these five repeating values
+* Fixed FLS problems in updatePositions and changePizzaSizes(size)
